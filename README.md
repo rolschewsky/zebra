@@ -13,7 +13,7 @@ Auf dem Smartphone muss der versteckte _Entwicklermodus_ aktiviert werden. Hierz
 ![Entwicklermodus aktivieren GIF](https://github.com/rolschewsky/zebra/blob/master/vids/Entwicklermodus.gif?raw=true)
 
 ### Android Debug Bridge (ADB) Service starten
-Auf dem PC die **Windows PowerShell** öffnen (der Ausführen Dialog kann über den Tastaturkurzbefehl Win+R geöffnet werden):
+Auf dem PC die **Windows PowerShell** öffnen (der Ausführen Dialog kann über den Tastaturkurzbefehl Win+R geöffnet werden):  
 ![Powershell öffnen](https://github.com/rolschewsky/zebra/blob/master/pics/powershell_ausfuehren.png?raw=true)
  
  Durch den Befehl 
