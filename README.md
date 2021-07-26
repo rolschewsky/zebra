@@ -3,10 +3,8 @@
 ## Vorbereitung
 
 ### Erforderliche Dateien kopieren
-ZIP-Archiv herunterladen: [Android Werkzeuge.zip](https://github.com/rolschewsky/zebra/blob/master/Android%20Werkzeuge.zip?raw=true) und nach `C:\Brendel\Android Werkzeuge\` extrahieren, sodass es wie folgt aussieht:  
+Auf dem PC das ZIP-Archiv herunterladen: [Android Werkzeuge.zip](https://github.com/rolschewsky/zebra/blob/master/Android%20Werkzeuge.zip?raw=true) und nach `C:\Brendel\Android Werkzeuge\` extrahieren, sodass es wie folgt aussieht:  
 ![Explorer: Ordnerstruktur](https://github.com/rolschewsky/zebra/blob/master/pics/explorer_android_werkzeuge.png?raw=true)
-
-
 
 ### Entwicklermodus Aktivieren
 Auf dem Smartphone muss der versteckte _Entwicklermodus_ aktiviert werden. Hierzu in der **Einstellungen App** nach **über das Telefon** suchen. Anschließend den Eintrag **Build-Nummer** so oft antippen bis die Meldung "Du bist jetzt Entwickler!" kommt.  
@@ -46,7 +44,6 @@ Auf dem PC prüfen wir ob wir uns über ADB verbinden können hierzu den Befehl:
 ```
 ausführen. In der folgenden Liste sollte nun der Eintrag mit der Seriennummer des verbundenen Smartphones sein.  
 ![ADB Geräteliste](https://github.com/rolschewsky/zebra/blob/master/pics/adb_list_devices.png?raw=true)
-
 
 ## Firmware Update
 
