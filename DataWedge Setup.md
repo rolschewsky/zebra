@@ -6,9 +6,9 @@ Damit der Scanner mit der App kommuniziert muss die Intent-Ausgabe der Zebra Dat
 1. **DataWedge** App starten
 2. **Profile0** auswählen
 3. runterscrollen zum **Intent-Ausgabe** Abschnitt und folgende Einstellungen setzen
-  * Häkchen bei **Aktiviert** setzen
-  * den Wert: _de.brendelsoftware.action.SCAN_ bei **intent-Aktion** hinterlegen
-  * _Intent senden_ bei **Intent-Übertragung** auswählen
+    * Häkchen bei **Aktiviert** setzen
+    * den Wert: _de.brendelsoftware.action.SCAN_ bei **intent-Aktion** hinterlegen
+    * _Intent senden_ bei **Intent-Übertragung** auswählen
 
 ![DataWegde Intent-Ausgabe konfigurieren](https://github.com/rolschewsky/zebra/blob/master/vids/datawedge_broadcast_intent.gif?raw=true)
 
