@@ -94,7 +94,7 @@ Nun das Smartphone Neustarten und anschließend Quicksupport oder Host öffnen u
 ### Android Sicherheitsabfrage abschalten
 Ab Android 10 muss jeder Fernwartungszugriff bestätigt werden um dies zu deaktivieren müssen wir spezielle Administrator-Apps installieren, welche uns ermöglichen diese Sicherheitsabfragen für TeamViewer zu deaktivieren.
 
-**Bevor die Sicherheitsfrage für  Quicksupport oder Host abgeschaltet werden kann muss die entsprechende App mindestens einmal mit einem PC erfolgreich verbunden worden sein**
+**Bevor die Sicherheitsfrage für Quicksupport oder Host abgeschaltet werden kann muss die entsprechende App mindestens einmal mit einem PC erfolgreich verbunden worden sein.** Damit ist gemeint das man die App mindestes einmal starten muss und man sich anschließend per TeamViwer _auf dem PC_ sich per Ferwartung mit dem Smartphone verbindet.
 
 Auf dem PC eine PowerShell öffnen und durch folgenden Befehl in das _Android Werkzeuge_ Verzeichnis wechseln:
 ```
@@ -119,7 +119,7 @@ Nun _App Ops_ installieren
 ```  
 ![AppOps über ADB Installieren](https://github.com/rolschewsky/zebra/blob/master/pics/adb_install_appops.png?raw=true)
 
-Auf dem Smartphone die **App Ops**-App öffnen und auf _Shizuku mode_ stellen.
+Auf dem Smartphone die **App Ops**-App öffnen, den _Shizuku mode_ auswählen und mit _continue_ bestätigen.
 ![AppOps Shizuku Aktivieren](https://github.com/rolschewsky/zebra/blob/master/vids/appops_shizuku.gif?raw=true)
 
 Letzliche alle Berechtigungen zulassen 
