@@ -34,7 +34,7 @@ Auf dem Smartphone, muss die USB-Verbidnung mit dem PC als _Dateiübertragung_ k
 ![USB Einstellungen](https://github.com/rolschewsky/zebra/blob/master/vids/USB%20Einstellen.gif?raw=true) 
 
 ### USB-Debugging auf dem Gerät aktivieren
-Auf dem Smartphone muss nun USB-Debugging _eingeschaltet_ werden. Hierzu in der **Einstellungen App** nach **Entwickleroptionen** suchen. Anschließend den Eintrag **USB-Debugging einschalten**. Wenn der ADB-Service läuft und die Dateiübertragung richtig konfiguriert wurde folgt sofort eine Abfrage ob USB-Debugging zugelassen werden soll. Bei dieser Abfrage den Haken bei "Von diesem Computer immer zulassen" setzen und anschließend Erlauben.  
+Auf dem Smartphone muss nun USB-Debugging _eingeschaltet_ werden. Hierzu in der **Einstellungen App** nach **Entwickleroptionen** suchen. Anschließend den Eintrag **USB-Debugging einschalten**. Wenn der ADB-Service läuft und die Dateiübertragung richtig konfiguriert wurde folgt sofort eine Abfrage ob USB-Debugging zugelassen werden soll. Bei dieser Abfrage den Haken bei "Von diesem Computer immer zulassen" setzen und anschließend Erlauben. Die im Dialog angezeigte Seriennummer ist dabei von PC zu PC unterschiedlich und ist hierbei unerheblich. 
 ![USB-Debugging einschalten](https://github.com/rolschewsky/zebra/blob/master/vids/usb_debugging_einschalten.gif?raw=true)
 
 ### Verbindung von Smartphone zu PC prüfen
