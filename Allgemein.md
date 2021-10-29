@@ -64,7 +64,7 @@ Auf dem Smartphone über die Lautstäketasten (+/-) den Eintrag **Apply upgrade 
 Anschließend den Eintrag **Diff OTA Package** auswählen und bestätigen.  
 ![Diff OTA Package auswählen](https://github.com/rolschewsky/zebra/blob/master/pics/adv_diff_ota.png?raw=true)
 
-Das Smartphone führt anschließend einen Neustart und erwartet jetzt eine Update-Datei.  
+Das Smartphone führt anschließend einen Neustart aus und erwartet dann eine Update-Datei.  
 ![Sideload Erwarte 1](https://github.com/rolschewsky/zebra/blob/master/pics/adb_erwarte_sideload_device.png?raw=true)  
 ![Sideload Erwate 2](https://github.com/rolschewsky/zebra/blob/master/pics/adb_erwarte_sideload.png?raw=true)
 
