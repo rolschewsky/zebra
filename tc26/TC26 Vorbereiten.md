@@ -54,7 +54,6 @@ Auf dem PC folgenden Befehl in der PowerShell ausführen:
 ```  
 ![Reboot Recovery Konsole](https://github.com/rolschewsky/zebra/blob/master/pics/adb_reboot_recovery.png?raw=true)
 
-
 Das Smartphone führt anschließend einen Neustart durch und befindet sich dann im _Fastboot-Modus_:  
 ![Fastboot Modus](https://github.com/rolschewsky/zebra/blob/master/pics/fastboot-mode.png?raw=true)
 
@@ -76,7 +75,3 @@ Auf dem PC jetzt folgenden Befehl in der PowerShell ausführen um die Update-Dat
 
 Die Updatedatei wird nun auf das Gerät gespielt. Dieser Vorgang kann mehrere Minuten dauern. Sobald das Update abgeschlossen ist kann das Gerät durch den Eintrag **Reboot system now** neugestartet werden.  
 ![Fastboot Reboot](https://github.com/rolschewsky/zebra/blob/master/pics/fastboot_reboot.png?raw=true)
-
-## Abschluss
-Nach einem kompletten Neustart den Entwicklermodus deaktivieren:  
-![Entwicklermodus abschalten](https://github.com/rolschewsky/zebra/blob/master/vids/entwicklermodus_abschalten.gif?raw=true)
